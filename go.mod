@@ -64,10 +64,9 @@ require (
 	go.dedis.ch/kyber/v3 v3.0.13
 	go.uber.org/multierr v1.6.0
 	go.uber.org/zap v1.16.0
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/text v0.3.4
-	golang.org/x/tools v0.0.0-20201118215654-4d9c4f8a78b0 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/text v0.3.8
 	gonum.org/v1/gonum v0.8.1
 	gopkg.in/gormigrate.v1 v1.6.0
 	gopkg.in/guregu/null.v3 v3.5.0
